@@ -1,0 +1,8 @@
+build
+third-party
+otherData
+bin
+.vscode
+laboratorio2
+laboratorio2.zip
+*.out
